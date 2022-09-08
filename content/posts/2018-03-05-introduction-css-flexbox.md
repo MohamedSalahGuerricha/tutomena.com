@@ -104,7 +104,7 @@ thumbnail: '../thumbnails/css3.png'
 
 ## الخاصية align-items
 
-تستخدم القيمة **align-items** من أجل التحكم في كيفية العرض على المحور العمودي.
+تستخدم القيمة **align-items** من أجل التحكم في كيفية العرض على المحور الأفقي.
 
 ```css
 .container {
